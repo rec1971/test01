@@ -1,0 +1,37 @@
+/* タグ */
+h1 {font-size: 50px; text-align: center;
+}
+
+/* idに対して　*/
+#title{
+    color: rgb(0, 255, 21); 
+}
+
+h2{color: rgb(40, 18, 99); padding: 50px; 
+
+}
+
+.text {
+color: rgb(245, 224, 224); padding: 50px; 
+margin: 50px;
+
+}
+
+p{background-color: rgb(106, 80, 255);}
+
+img {
+    width: 500px;
+}
+
+ul {
+border: 1px black solid;
+padding: 50px;
+margin: 50px;
+
+}
+
+/* body{border: 1px black solid;
+    padding: 50px;
+    margin: 50px;
+
+} */
