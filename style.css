@@ -1,26 +1,44 @@
+header{
+border: 1px black solid;
+padding: 0px;
+margin: 0px;
+background-color: chartreuse;
+
+}
+
 /* タグ */
+
 h1 {font-size: 50px; text-align: center;
 }
 
+.box1{
+display: flex;
+}
 /* idに対して　*/
 #title{
     color: rgb(0, 255, 21); 
 }
 
-h2{color: rgb(40, 18, 99); padding: 50px; 
+h2{color: rgb(40, 18, 99); text-align: center; 
 
 }
 
 .text {
-color: rgb(245, 224, 224); padding: 50px; 
+color: black; 
+font-size: 20px;
+padding: 50px; 
 margin: 50px;
 
 }
 
-p{background-color: rgb(106, 80, 255);}
+/* p{background-color: rgb(106, 80, 255);} */
+
+p{
+    text-align: center;
+}
 
 img {
-    width: 500px;
+    width: 400px;
 }
 
 ul {
@@ -29,6 +47,15 @@ padding: 50px;
 margin: 50px;
 
 }
+
+footer{
+border: 1px black solid;
+padding: 0px;
+margin: 0px;
+background-color: chartreuse;
+}
+
+
 
 /* body{border: 1px black solid;
     padding: 50px;
